@@ -1,0 +1,7 @@
+print("Hello, Shikha!")
+print("This is my first Python program.")
+
+x = 10
+y = 20
+
+print(x + y)
